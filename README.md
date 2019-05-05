@@ -1,2 +1,2 @@
 # data
-<font color=red>内容</font>
+<font color=gray size=72>color=gray</font>
