@@ -1,2 +1,2 @@
 # data
-<font color=red>color=gray</font>
+*<font color=red>color=gray</font>*
